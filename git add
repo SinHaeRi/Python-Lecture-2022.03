@@ -1,0 +1,48 @@
+[33mcommit 5fbcf53d2bac4cfd410b8e1b9838974f3ee88ab2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: SinHaeRi <102130838+SinHaeRi@users.noreply.github.com>
+Date:   Tue Mar 22 16:38:53 2022 +0900
+
+    Delete hello.ipynb
+
+[33mcommit f1ffbfd764e5d541c4426b3ddffb89a6830b23be[m
+Merge: f5add30 511c9f3
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 16:26:13 2022 +0900
+
+    Merge branch 'main' of https://github.com/SinHaeRi/Python-Lecture-2022.03
+
+[33mcommit f5add304b23c7f0948f3b4a124030c5751fd8c19[m
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 16:25:07 2022 +0900
+
+    hello.txt 복구
+
+[33mcommit 511c9f3e583c52e9622d6bcbfdbba4534d0b8c53[m
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 16:14:26 2022 +0900
+
+    hello.txt 삭제
+
+[33mcommit 8816b6a96c9bb500b1e02b67c78d6a2c9a875c62[m
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 16:10:15 2022 +0900
+
+    집에서 변경
+
+[33mcommit 5ecbf3f775b9ddb20df6fcd0b816cff981172412[m
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 15:23:53 2022 +0900
+
+    .gitignore 추가
+
+[33mcommit db4bd81f6f1afd72a81b8dc731c6cde668ef6f30[m
+Author: SinHaeRi <102130838+SinHaeRi@users.noreply.github.com>
+Date:   Tue Mar 22 15:03:51 2022 +0900
+
+    Create README.md
+
+[33mcommit 7d4edc8a463beebda1ddc89345e33b4fde1329df[m
+Author: Sin HaeRi <1004haeri@gmail.com>
+Date:   Tue Mar 22 14:24:06 2022 +0900
+
+    first commit
