@@ -1,0 +1,37 @@
+formatted string
+
+print(f'{year}-{month:02d}-{day}')
+
+: 콜론이 %적용의미
+2022-3-24
+
+
+== print(year, '-',month,'-',day, sep='')
+------------------
+
+format - C, Java, JavaScript 등 에서도 동일하게 적용
+정수: %d	%2d : 2글자로 찍는것 ex) _3
+		%02d : ex) 03	
+실수: %f	%4.1f : 소수점 1자리	3.4
+문자열: %s 	%4s : time
+
+template literal ' '
+formatted string f' ', f" ", f''' ''', f""" """
+
+Java, JSP사용시 template literal사용못함. 
+
+JavaScript NodeJS, ReactJS --> formatted string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
